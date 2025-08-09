@@ -1,11 +1,13 @@
 Bagchi Integrator
-- Python script that updates a 1D Heisenberg spin chain with Δ and plots energy error.
+- A script that updates a 1D Heisenberg spin chain with Δ and plots energy error.
 
 Setup
-- pip install -r requirements.txt
+- Install packages:
+  pip install numpy matplotlib
+  # if that fails, try: pip3 install numpy matplotlib
 
 Run
-- python bagchi_integrator.py
+- python bagchi_integrator.py  # or: python3 bagchi_integrator.py
 
 Output
-- generates energy-error plots a
+- generates energy-error plots as PNGs
