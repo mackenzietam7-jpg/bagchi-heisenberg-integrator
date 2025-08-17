@@ -10,4 +10,4 @@ Run
 - python bagchi_integrator.py  # or: python3 bagchi_integrator.py
 
 Output
-- generates energy-error plots as PNGs
+- saves energy-error, Sz-error, and helix component heatmap PNGs
